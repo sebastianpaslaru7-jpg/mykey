@@ -1,5 +1,3 @@
 {
-  "TEST-KEY-123": {
-    "expires": 1999999999
-  }
+  "TEST-KEY": { "expires": 1999999999 }
 }
